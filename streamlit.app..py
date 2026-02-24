@@ -13,11 +13,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
-import database as db
+import database as db 
 import requests
 
 st.set_page_config(
-    page_title="VIRAT RAJPUT KING 😈",
+    page_title="VIRAT KING 😈",
     page_icon="✅",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1025,5 +1025,6 @@ else:
     main_app()
 
 st.markdown('<div class="footer">MADE BY VIRAT |2026 ALL RIGHT REVERSED🇮🇳 WP+917310927827</div>', unsafe_allow_html=True)
+
 
 
