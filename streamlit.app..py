@@ -1029,3 +1029,4 @@ st.markdown('<div class="footer">MADE BY VIRAT |2026 ALL RIGHT REVERSED🇮🇳 
 
 
 
+
